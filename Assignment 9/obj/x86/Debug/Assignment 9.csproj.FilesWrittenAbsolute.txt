@@ -1,0 +1,4 @@
+/media/rory35/SCHOOLDOCS/IPFW/CS292/CH9/Assignment 9 Inventory/Assignment 9 Inventory/Assignment 9/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/media/rory35/SCHOOLDOCS/IPFW/CS292/CH9/Assignment 9 Inventory/Assignment 9 Inventory/Assignment 9/obj/x86/Debug/Assignment_9.InventoryForm.resources
+/media/rory35/SCHOOLDOCS/IPFW/CS292/CH9/Assignment 9 Inventory/Assignment 9 Inventory/Assignment 9/obj/x86/Debug/Assignment_9.MainForm.resources
+/media/rory35/SCHOOLDOCS/IPFW/CS292/CH9/Assignment 9 Inventory/Assignment 9 Inventory/Assignment 9/obj/x86/Debug/Assignment_9.Properties.Resources.resources

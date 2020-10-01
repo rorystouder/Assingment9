@@ -1,0 +1,9 @@
+F:\IPFW\CS292\CH9\Assignment 9 Inventory\Assignment 9 Inventory\Assignment 9\obj\x86\Debug\Assignment 9.csprojResolveAssemblyReference.cache
+F:\IPFW\CS292\CH9\Assignment 9 Inventory\Assignment 9 Inventory\Assignment 9\obj\x86\Debug\Assignment_9.InventoryForm.resources
+F:\IPFW\CS292\CH9\Assignment 9 Inventory\Assignment 9 Inventory\Assignment 9\obj\x86\Debug\Assignment_9.MainForm.resources
+F:\IPFW\CS292\CH9\Assignment 9 Inventory\Assignment 9 Inventory\Assignment 9\obj\x86\Debug\Assignment_9.Properties.Resources.resources
+F:\IPFW\CS292\CH9\Assignment 9 Inventory\Assignment 9 Inventory\Assignment 9\obj\x86\Debug\Assignment 9.csproj.GenerateResource.Cache
+F:\IPFW\CS292\CH9\Assignment 9 Inventory\Assignment 9 Inventory\Assignment 9\bin\Debug\Assignment 9.exe
+F:\IPFW\CS292\CH9\Assignment 9 Inventory\Assignment 9 Inventory\Assignment 9\bin\Debug\Assignment 9.pdb
+F:\IPFW\CS292\CH9\Assignment 9 Inventory\Assignment 9 Inventory\Assignment 9\obj\x86\Debug\Assignment 9.exe
+F:\IPFW\CS292\CH9\Assignment 9 Inventory\Assignment 9 Inventory\Assignment 9\obj\x86\Debug\Assignment 9.pdb
